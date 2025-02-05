@@ -1,2 +1,2 @@
 # Java-Project
-Java projects 
+Java - Hospital Management System 
